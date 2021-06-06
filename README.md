@@ -24,7 +24,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/tuktarov9898/tuktarov9898/blob/main/images/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](mailto: tuktarov2121@gmail.com) :)
+- 💼 Any freelance work? Do reach, [email](mailto:tuktarov2121@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
