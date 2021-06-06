@@ -111,3 +111,5 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 ## License 
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/l/GPL/2.0/88x62.png)](https://creativecommons.org/)
+[![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/144px-Approved-for-free-cultural-works.svg.png)](https://freedomdefined.org/index.php?title=User:Romaine&action=edit&redlink=1)
