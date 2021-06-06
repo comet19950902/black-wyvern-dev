@@ -69,7 +69,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=tuktarov9898&show_icons=true&theme=monokai&count_private=true">
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=superJackiee&show_icons=true&theme=monokai&count_private=true"  alt="abhisheknaiidu">
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuktarov9898&layout=compact&theme=monokai&count_private=true">
 
 
