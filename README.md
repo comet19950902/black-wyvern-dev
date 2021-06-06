@@ -1,5 +1,3 @@
-### Hi there 👋
-❤️‍🩹
 <!--
 **tuktarov9898/tuktarov9898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -84,6 +82,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=superJackiee&show_icons=true&theme=monokai&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superJackiee&layout=compact&theme=monokai&count_private=true">
 
 
 ## License 
