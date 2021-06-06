@@ -51,6 +51,27 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
+
+## License 
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/l/GPL/2.0/88x62.png)](https://creativecommons.org/)
+[![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/144px-Approved-for-free-cultural-works.svg.png)](https://freedomdefined.org/index.php?title=User:Romaine&action=edit&redlink=1)
+
+
+
+
+📈 My GitHub Stats
+<p>
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=tuktarov9898&sshow_icons=true&theme=gotham&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknaiidu&layout=compact&theme=monokai&count_private=true">
+</p>
+
+
+
+
+
+
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  7,837 Karma Points           
@@ -96,20 +117,6 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 
-📈 My GitHub Stats
-<p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=tuktarov9898&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheknaiidu&layout=compact&theme=monokai&count_private=true">
-</p>
 
 
 
-
-
-
-
-## License 
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![CC0](https://licensebuttons.net/l/GPL/2.0/88x62.png)](https://creativecommons.org/)
-[![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/144px-Approved-for-free-cultural-works.svg.png)](https://freedomdefined.org/index.php?title=User:Romaine&action=edit&redlink=1)
