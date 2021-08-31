@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Denis Tuktarov](https://tuktarov2121.wixsite.com/developer-site), a passionate self-taught Full Stack web developer and a freelance software engineer from Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Denis Tuktarov](https://tuktarov2121.wixsite.com/profile), a passionate self-taught Full Stack web developer and a freelance software engineer from Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
