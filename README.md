@@ -1,5 +1,5 @@
 <!--
-**tuktarov9898/tuktarov9898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**black-wyvern-dev/black-wyvern-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Denis Tuktarov](https://tuktarov2121.wixsite.com/profile), a passionate self-taught Full Stack web developer and a freelance software engineer from Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm a passionate self-taught Full Stack web developer and a freelance software engineer from Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/tuktarov9898/tuktarov9898/blob/main/images/code.gif?raw=true" width="450" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/code.gif?raw=true" width="450" height="320" />
   
-- 💼 Any freelance work? Do reach, [email](mailto:tuktarov2121@gmail.com) :)
+- 💼 Any freelance work? Do reach, [email](mailto:nightfurry090@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **Languages and Tools:**  
@@ -98,8 +98,8 @@ CSS          9 mins          ▒░░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=tuktarov9898&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuktarov9898&layout=compact&theme=monokai&count_private=true">
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=black-wyvern-dev&sshow_icons=true&theme=gotham&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=black-wyvern-dev&layout=compact&theme=monokai&count_private=true">
 </p>
 
 
