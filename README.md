@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm a passionate self-taught Full Stack web developer and a freelance software engineer from Russia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm a passionate self-taught Full Stack block chain developer and a mathmatician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Great experience in building smart contract on Ethereum, Binance, Harmony and Solana smart chain with solidity and rust.
+Strong experience in NFT marketplace and DAO project, especially skillful in erc-721, erc-1155, hrc-721, tron-1155.
 
 
   <img align="right" alt="GIF" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/code.gif?raw=true" width="450" height="320" />
