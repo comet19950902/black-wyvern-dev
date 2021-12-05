@@ -45,9 +45,9 @@ Strong experience in NFT marketplace and DAO project, especially skillful in erc
 <!--START_SECTION:waka-->
 ```text
 JSX          14 hrs 11 mins  █████████████████████▓░░░   86.97 % 
-JavaScript   1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+TypeScript   1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Rust         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+SCSS          9 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 <!--END_SECTION:waka-->
 
