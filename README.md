@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Hi, I'm a passionate self-taught Full Stack block chain developer and a mathmatician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 Great experience in building smart contract on Ethereum, Binance, Harmony and Solana smart chain with solidity and rust.
-Strong experience in NFT marketplace and DAO project, especially skillful in erc-721, erc-1155, hrc-721, tron-1155.
+Strong experience in NFT marketplace and DAO project, especially skillful in erc-721, erc-1155, hrc-721, tron-1155, candy machine, metaplex and anchor.
 
 
   <img align="right" alt="GIF" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/code.gif?raw=true" width="450" height="320" />
@@ -43,11 +43,11 @@ Strong experience in NFT marketplace and DAO project, especially skillful in erc
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-JSX          14 hrs 11 mins  █████████████████████▓░░░   86.97 % 
-TypeScript   1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Rust         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-SCSS          9 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+```text                                                                                                       
+JSX          18 hrs 11 mins  █████████████████████▓░░░   50.79 % 
+TypeScript   16 hrs 33 mins  █████████████████░░░░░░░░   46.22 % 
+Rust         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+SCSS          9 mins         ▒▒▒▒░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 ```
 <!--END_SECTION:waka-->
 
