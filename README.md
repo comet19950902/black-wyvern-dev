@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm a passionate self-taught Full Stack block chain developer and a mathmatician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm a passionate Full Stack block chain developer and a mathmatician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 Great experience in building smart contract on Ethereum, Binance, Harmony and Solana smart chain with solidity and rust.
 Strong experience in NFT marketplace and DAO project, especially skillful in erc-721, erc-1155, hrc-721, tron-1155, candy machine, metaplex and anchor.
