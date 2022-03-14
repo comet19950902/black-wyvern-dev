@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm a passionate Full Stack block chain developer and a mathmatician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm a passionate Full Stack block chain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-Great experience in building smart contract on Ethereum, Binance, Harmony and Solana smart chain with solidity and rust.
-Strong experience in NFT marketplace and DAO project, especially skillful in erc-721, erc-1155, hrc-721, tron-1155, candy machine, metaplex and anchor.
+Great experience in building smart contract on EVM, Binance, Harmony and Solana with Solidity and Rust.
+Solid experience in ether.js, web3.js, solana web3.js, react/vue/typescript.
+Strong experience in ERC721, ERC1155, HRC721, BEP721, BEP20, Candy Machine V2, Metaplex and Anchor.
 
 
   <img align="right" alt="GIF" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/code.gif?raw=true" width="450" height="320" />
@@ -44,10 +45,10 @@ Strong experience in NFT marketplace and DAO project, especially skillful in erc
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text                                                                                                       
-JSX          18 hrs 11 mins  █████████████░░░░░░░░░░░░   50.79 % 
-TypeScript   16 hrs 33 mins  ██████████░░░░░░░░░░░░░░░   46.22 % 
-Rust         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-SCSS          9 mins         ▒▒▒▒░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+JSX           7 hrs   ██████░░░░░░░░░░░░░░░░░░░   15.2 % 
+TypeScript   16 hrs   ██████████████░░░░░░░░░░░   34.7 % 
+Rust         21 hrs   █████████████████░░░░░░░░   45.6 % 
+SCSS          2 hrs   ▒▒▒▒░░░░░░░░░░░░░░░░░░░░░   04.5 % 
 ```
 <!--END_SECTION:waka-->
 
