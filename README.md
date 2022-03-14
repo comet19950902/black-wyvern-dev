@@ -23,9 +23,12 @@ Great experience in building smart contract on EVM, Binance, Harmony and Solana 
 Solid experience in ether.js, web3.js, solana web3.js, react/vue/typescript.
 Strong experience in ERC721, ERC1155, HRC721, BEP721, BEP20, Candy Machine V2, Metaplex and Anchor.
 
+<img align="right" alt="GIF" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
-  <img align="right" alt="GIF" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/code.gif?raw=true" width="450" height="320" />
-  
+### Built NFT projects like Minting, Staking, Breeding, Mutex(Evolution), Marketplace, Launchpad, Utility Token creation, ICO/IDO on EVM & Solana
+### Built Simple P2E games like Dice, Guess Number, Moonshot, CoinFlip
+### Built DEXs, DAO on EVM and Solana
+    
 - 💼 Any freelance work? Do reach, [email](mailto:nightfurry090@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
@@ -48,7 +51,7 @@ Strong experience in ERC721, ERC1155, HRC721, BEP721, BEP20, Candy Machine V2, M
 JSX           7 hrs   ██████░░░░░░░░░░░░░░░░░░░   15.2 % 
 TypeScript   16 hrs   ██████████████░░░░░░░░░░░   34.7 % 
 Rust         21 hrs   █████████████████░░░░░░░░   45.6 % 
-SCSS          2 hrs   ▒▒▒▒░░░░░░░░░░░░░░░░░░░░░   04.5 % 
+SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░░░░░░░   04.5 % 
 ```
 <!--END_SECTION:waka-->
 
