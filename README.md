@@ -21,7 +21,7 @@ Hi, I'm a passionate Full Stack block chain developer and a mathematician. My pa
 
 Great experience in building smart contract on EVM, Binance, Harmony and Solana with Solidity and Rust.
 Solid experience in ether.js, web3.js, solana web3.js, react/vue/typescript.
-Strong experience in ERC721, ERC1155, HRC721, BEP721, BEP20, Candy Machine V2, Metaplex and Anchor.
+Strong experience in ERC20/721/1155, BEP20, Candy Machine V2, Metaplex and Anchor.
 
 <img align="right" alt="GIF" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
