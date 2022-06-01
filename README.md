@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 💬 [My CV](https://cvdesignr.com/p/617a18cbf2e18)
 - 📫 [Linkedin](https://www.linkedin.com/in/alexey-yamada-1b915122a)
 - [![Linkedin Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-yamada-1b915122a)
+- [![Discord Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Discord&logoColor=white)](https://www.linkedin.com/in/alexey-yamada-1b915122a)
 - 👯 [Discord](https://discordapp.com/users/862393400976343041)
 
 ## 🛠  Technologies and tools
