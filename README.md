@@ -22,7 +22,13 @@ Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" r
 ### 8+ years of Software Experience and 4+ years of Blockchain experience on EVM, Binance, Harmony, Solana and Near
 
 ### 🤝 Connect with me:
-- [![Linkedin Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-yamada-1b915122a) &nbsp; [![Discord Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/862393400976343041)
+
+<a href="https://www.linkedin.com/in/alexey-yamada-1b915122a/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/linkedin.svg" alt="Alex | LinkedIn" width="21px"/></a>
+<a href="https://discordapp.com/users/862393400976343041"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg" alt="Alex | Discord" width="21px"/></a>
+<a href="https://t.me/SeniorDevTSD/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Alex | Telegram" width="21px"/></a>
+<a href="mailto:nightfurry090@gmail.com"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg" alt="Alex | Email" width="21px"/></a>
+</br>
+ - 💬 If you have any question/feedback or any freelancer work, please do not hesitate to reach out to me!
 
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -61,7 +67,7 @@ Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" r
 &nbsp;
 <br /><br />
 
-##  🔭 I'm currently working for SAGC(Shredded Apes Gym Club) as a Head Developer
+## 🔭 Currently working as a Head Developer in SAGC(Shredded Apes Gym Club)
  - SAGC Landing (https://shreddedapes.io)
  - SAGC Webshop (https://shreddedapes.shop)
   <br />
@@ -69,7 +75,7 @@ Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" r
 ![](https://bafybeie6y2viy7vqcv37njljlt42joy7d35tvljfsw2nhtmg4qost7y7v4.ipfs.dweb.link/)
 <h4 align="center">
  
-## 🌱Experience
+## 🌱 Experience
  - Built NFT/Token Minting, Staking, Breeding, Raffle/Auction, Mutex(Evolution), Marketplace, Launchpad, ICO/IDO
  - Built Simple P2E Games like Dice, Guess Number, Moonshot, CoinFlip
  - Built NFT/Wallet Tracker Tool by analyzing Whales Wallets of various Pools
