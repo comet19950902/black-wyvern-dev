@@ -12,22 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=black-wyvern-dev.black-wyvern-dev)
 
 <br />
 
 Hi, I'm a passionate Full Stack block chain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-Great experience in building smart contract on EVM, Binance, Harmony and Solana with Solidity and Rust.
+Great experience in building smart contract on EVM, Binance, Harmony, Solana and Near with Solidity and Rust.
 Solid experience in ether.js, web3.js, solana web3.js, react/vue/typescript.
 Strong experience in ERC20/721/1155, BEP20, Candy Machine V2, Metaplex and Anchor.
 
 <img align="right" alt="GIF" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/code.gif?raw=true" width="450" height="320" />
 
-### Built NFT projects like Minting, Staking, Breeding, Mutex(Evolution), Marketplace, Launchpad, Utility Token creation, ICO/IDO on EVM & Solana
+### Built NFT projects like Minting, Staking, Breeding, Mutex(Evolution), Raffle/Auction, Marketplace, Launchpad, Utility Token creation, ICO/IDO on EVM, Binance,Solana and Near.
 ### Built Simple P2E games like Dice, Guess Number, Moonshot, CoinFlip
-### Built DEXs, DAO on EVM and Solana
+### Built DEXs, DAO on EVM, Binance, Solana and Near
     
 - 💼 Any freelance work? Do reach, [email](mailto:nightfurry090@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
@@ -57,9 +56,6 @@ SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░�
 
 
 ## Main Skill
-
-
-
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
@@ -96,34 +92,4 @@ SCSS          2 hrs   ██▒▒░░░░░░░░░░░░░░░�
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-
-
-
-
-##
-
-
-📈 My GitHub Stats
-<p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=black-wyvern-dev&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=black-wyvern-dev&layout=compact&theme=monokai&count_private=true">
-</p>
-
-
-
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-## License 
-
-[![CC0](https://licensebuttons.net/l/GPL/2.0/88x62.png)](https://creativecommons.org/)
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Approved-for-free-cultural-works.svg/144px-Approved-for-free-cultural-works.svg.png)](https://freedomdefined.org/index.php?title=User:Romaine&action=edit&redlink=1)
 
