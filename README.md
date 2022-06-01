@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ###  Hi, I'm a passionate Full Stack block chain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-###  Great experience in building DApp, Defi, DAO on EVM, Binance, Harmony, Solana and Near
+###  8+ years of Software Experience and 4+ years of Blockchain experience on EVM, Binance, Harmony, Solana and Near
 - 💬[My CV](https://cvdesignr.com/p/617a18cbf2e18)
 - 📫[Linkedin](https://www.linkedin.com/in/alexey-yamada-1b915122a)
 - 👯[Discord](discordapp.com/users/862393400976343041)
