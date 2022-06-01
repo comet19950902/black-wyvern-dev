@@ -16,16 +16,10 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm a passionate Full Stack block chain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+###Hi, I'm a passionate Full Stack block chain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-Great experience in building smart contract on EVM, Binance, Harmony, Solana and Near with Solidity and Rust.
-Solid experience in ether.js, web3.js, solana web3.js, react/vue/typescript.
-Strong experience in ERC20/721/1155, BEP20, Candy Machine V2, Metaplex and Anchor.
+###Great experience in building DApp, Defi, DAO on EVM, Binance, Harmony, Solana and Near
 
-
-### Built NFT projects like Minting, Staking, Breeding, Mutex(Evolution), Raffle/Auction, Marketplace, Launchpad, Utility Token creation, ICO/IDO on EVM, Binance,Solana and Near.
-### Built Simple P2E games like Dice, Guess Number, Moonshot, CoinFlip
-### Built DEXs, DAO on EVM, Binance, Solana and Near
     
 - 💼 Any freelance work? Do reach, [email](mailto:nightfurry090@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
