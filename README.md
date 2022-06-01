@@ -67,7 +67,7 @@ Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" r
 &nbsp;
 <br /><br />
 
-## 🔭 Currently working as a Head Developer in SAGC(Shredded Apes Gym Club)
+## 🔭 Currently working as a Head Dev in SAGC(Shredded Apes Gym Club)
  - SAGC Landing (https://shreddedapes.io)
  - SAGC Webshop (https://shreddedapes.shop)
   <br />
