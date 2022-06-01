@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ###  Hi, I'm a passionate Full Stack block chain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 ###  Great experience in building DApp, Defi, DAO on EVM, Binance, Harmony, Solana and Near
+- 👯[My CV](https://cvdesignr.com/p/617a18cbf2e18)
 
     
 - 💼 Any freelance work? Do reach, [email](mailto:nightfurry090@gmail.com) :)
@@ -66,7 +67,6 @@ Here are some ideas to get you started:
   
 ![](https://bafybeie6y2viy7vqcv37njljlt42joy7d35tvljfsw2nhtmg4qost7y7v4.ipfs.dweb.link/)
 <h4 align="center">
-  <br />
   <br />
  
 ### 🌱Experience
