@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <br />
  
 ### 🌱Experience
- <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+ <br /><br />
 - Built NFT/Token Minting, Staking, Breeding, Raffle/Auction, Mutex(Evolution), Marketplace, Launchpad, ICO/IDO
 - Built Simple P2E Games like Dice, Guess Number, Moonshot, CoinFlip
 - Built NFT/Wallet Tracker Tool by analyzing Whales Wallets of various Pools
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <p>    
 
 📊 **This Week I Spent My Time On:**
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<br /><br />
 ```text                                                                                                       
 JSX           7 hrs   ██████░░░░░░░░░░░░░░░░░░░   15.2 % 
 TypeScript   16 hrs   ██████████████░░░░░░░░░░░   34.7 % 
