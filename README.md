@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ###  8+ years of Software Experience and 4+ years of Blockchain experience on EVM, Binance, Harmony, Solana and Near
 - 💬 [My CV](https://cvdesignr.com/p/617a18cbf2e18)
 - 📫 [Linkedin](https://www.linkedin.com/in/alexey-yamada-1b915122a)
+- <a href="https://www.linkedin.com/in/alexey-yamada-1b915122a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 - 👯 [Discord](https://discordapp.com/users/862393400976343041)
 
 ## 🛠  Technologies and tools
