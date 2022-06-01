@@ -19,7 +19,7 @@ Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" r
 </h3>
 
 ### I'm a passionate Full Stack blockchain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-### 8+ years of Software Experience and 4+ years of Blockchain experience on EVM, Binance, Harmony, Solana and Near
+### 8+ years of Web development & 4+ years of Blockchain experience on EVM, Binance, Harmony, Solana and Near
 
 ### 🤝 Connect with me:
 
@@ -67,10 +67,7 @@ Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" r
 &nbsp;
 <br /><br />
 
-## 🔭 Currently working as a Head Dev in SAGC(Shredded Apes Gym Club)
- - SAGC Landing (https://shreddedapes.io)
- - SAGC Webshop (https://shreddedapes.shop)
-  <br />
+## 🔭 Currently working as a Head Dev in [SAGC](https://shreddedapes.io)
   
 ![](https://bafybeie6y2viy7vqcv37njljlt42joy7d35tvljfsw2nhtmg4qost7y7v4.ipfs.dweb.link/)
 <h4 align="center">
