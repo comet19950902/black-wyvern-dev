@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 - Built NFT/Wallet Tracker Tool by analyzing Whales Wallets of various Pools
 - Built DEXs, Defi, DAO on EVM, Binance, Solana and Near
 <p>    
-
-### 📊 **This Week I Spent My Time On:**
+ 
+📊 **This Week I Spent My Time On:**
 <span>
 ```text                                                                                                       
 JSX           7 hrs   ██████░░░░░░░░░░░░░░░░░░░   15.2 % 
