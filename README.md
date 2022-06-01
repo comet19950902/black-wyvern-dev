@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 
 ###  Great experience in building DApp, Defi, DAO on EVM, Binance, Harmony, Solana and Near
 - 👯[My CV](https://cvdesignr.com/p/617a18cbf2e18)
-
-    
-- 💼 Any freelance work? Do reach, [email](mailto:nightfurry090@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 📫[Linkedin](https://www.linkedin.com/in/alexey-yamada-1b915122a)
 
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
