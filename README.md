@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ###  8+ years of Software Experience and 4+ years of Blockchain experience on EVM, Binance, Harmony, Solana and Near
 - 💬 [My CV](https://cvdesignr.com/p/617a18cbf2e18)
-- [![Linkedin Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-yamada-1b915122a)
-- [![Discord Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/862393400976343041)
+- [![Linkedin Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-yamada-1b915122a) &nbsp; [![Discord Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/862393400976343041)
 
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
