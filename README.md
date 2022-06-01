@@ -57,14 +57,13 @@ Here are some ideas to get you started:
 &nbsp;
 <br /><br />
 
-###  👨‍💻SAGC Head Developer🛒
+###  👨‍💻SAGC Head Developer
  - SAGC Landing (https://shreddedapes.io)
  - SAGC Webshop (https://shreddedapes.shop)
   <br />
   
 ![](https://bafybeie6y2viy7vqcv37njljlt42joy7d35tvljfsw2nhtmg4qost7y7v4.ipfs.dweb.link/)
 <h4 align="center">
-  <br />
  
 ### 🌱Experience
  <span>
@@ -74,7 +73,7 @@ Here are some ideas to get you started:
 - Built DEXs, Defi, DAO on EVM, Binance, Solana and Near
 <p>    
 
-📊 **This Week I Spent My Time On:**
+### 📊 **This Week I Spent My Time On:**
 <span>
 ```text                                                                                                       
 JSX           7 hrs   ██████░░░░░░░░░░░░░░░░░░░   15.2 % 
