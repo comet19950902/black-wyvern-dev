@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ### 🌱Experience
 - Built NFT/Token Minting, Staking, Breeding, Raffle/Auction, Mutex(Evolution), Marketplace, Launchpad, ICO/IDO
 - Built Simple P2E Games like Dice, Guess Number, Moonshot, CoinFlip
-- Built NFT/Wallet Tracker Tool by analyzing Whales Wallet ov various Pools
+- Built NFT/Wallet Tracker Tool by analyzing Whales Wallets of various Pools
 - Built DEXs, Defi, DAO on EVM, Binance, Solana and Near
 <p>    
 
