@@ -19,7 +19,7 @@ Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" r
 </h3>
 
 ### I'm a passionate Full Stack blockchain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-### 8+ years of Web development & 4+ years of Blockchain experience on EVM, BSC, Polygon, Solana and Near
+### 8+ years of Web & 4+ years of Blockchain experience on EVM, BSC, Polygon, Solana and Near
 
 ### 🤝 Connect with me:
 
