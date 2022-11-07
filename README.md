@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" rel="noreferrer">Alex</a> 👋
 </h3>
 
-### I'm a passionate Full Stack blockchain developer and a mathematician. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-### 8+ years of Web & 4+ years of Blockchain experience on EVM, BSC, Polygon, Solana and Near
+### I'm a passionate Full Stack blockchain developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+### 8+ years of Web2 & 4+ years of Blockchain/Web3 experience & Solid Xp on EVM, BSC, Polygon, Solana, Near, Aptos and Sui
 
 ### 🤝 Connect with me:
 
@@ -75,7 +75,7 @@ Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" r
  
 ## 🌱 Experience
  - Built NFT/Token Minting, Staking, Breeding, Raffle/Auction, Mutex(Evolution), Marketplace, Launchpad, ICO/IDO
- - Built Simple P2E Games like Dice, Guess Number, Moonshot, CoinFlip
+ - Built Simple P2E Games like Dice, Guess Number, Moonshot, CoinFlip, Battalion and Poker
  - Built NFT/Wallet Tracker Tool by analyzing Whales Wallets of various Pools
  - Built DEXs, Defi, DAO on EVM, BSC, Solana and Near
 <p>    
