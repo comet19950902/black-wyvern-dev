@@ -19,10 +19,11 @@ Hi there, I'm <a href="https://cvdesignr.com/p/617a18cbf2e18/" target="_blank" r
 </h3>
 
 ### I'm a passionate Full Stack blockchain developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-### 8+ years of Web2 & 4+ years of Blockchain/Web3 experience & Solid Xp on EVM, BSC, Polygon, Solana, Near, Aptos and Sui
+### 9+ years of Web2 & 5+ years of Blockchain/Web3 experience & Solid Xp on EVM, BSC, Polygon, Solana, Near, Aptos and Sui
 
 ### 🤝 Connect with me:
 
+<a href="https://www.linkedin.com/in/alex-yamada-47328725a/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/linkedin.svg" alt="Alex | LinkedIn" width="24px"/></a>
 <a href="https://discordapp.com/users/862393400976343041"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg" alt="Alex | Discord" width="24px"/></a>
 <a href="https://t.me/SeniorDevTSD/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Alex | Telegram" width="24px"/></a>
 <a href="mailto:nightfurry090@gmail.com"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg" alt="Alex | Email" width="24px"/></a>
